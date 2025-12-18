@@ -21,7 +21,7 @@ Unlike my **last two projects**, which were pure simulations, this one is writte
 
 ## Project Features
 - Autopilot control for altitude, heading, speed
-- **Discrete Pid controllers** for each control axis
+- **Discrete PID controllers** for each control axis
 - Sensor redundancy (primary/ secondary)
 - Exception handling for safety-critical paths
 - Actuator output limiting safe ranges
