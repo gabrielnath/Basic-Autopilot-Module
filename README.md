@@ -74,3 +74,5 @@ gnatmake Basic_Autopilot.adb
 - No aerodynamic model is included
 - No redundancy voting logic is implemented
 - This is **not flight-certified software**
+
+Fun fact: During development, this project briefly convinced an imaginary aircraft to fly backwards due to a misconfigured throttle-speed interaction. I’m still not entirely sure how that happened, but it was amusing.
